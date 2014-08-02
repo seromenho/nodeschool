@@ -1,4 +1,4 @@
-var filteredls = require('./filtered.js');
+var filteredls = require('./6-filtered.js');
 
 var args = process.argv;
 var dir = args[2];
